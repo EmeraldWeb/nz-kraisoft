@@ -1,3 +1,4 @@
-import FOOBAR from './smthg';
+import './styles/global.css'
+import task from './task';
 
-FOOBAR();
+task();
